@@ -1,7 +1,7 @@
 <?php
 $secret_key = "changethis"; //Set this as your secret key, to prevent others uploading to your server.
 $sharexdir = "i/"; //This is your file dir, also the link..
-$domain_url = 'https://example.com';
+$domain_url = 'https://example.com/';
 $lengthofstring = 5; //Length of the file name
  
 $safe_types = ["jpg", "jpeg", "png", "gif", "gifv", "exe"];
